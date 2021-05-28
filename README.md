@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vishnu
 - 👀 I’m interested in Data Science, ML & AI domains
 - 🌱 I’m currently  looking for a job as an Data Analyst
-- 💞️ I’m good at SQL Server, Python, Tableau, Advanced Excel
+- 💞️ I’m good at SQL , Python, Tableau, Advanced Excel
 - 📫 Reach me with this mail tsvishnukumar.2011@gmail.com 
 
 
